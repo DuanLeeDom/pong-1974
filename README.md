@@ -1,7 +1,7 @@
 # Pong - 1974
 
-<img src="https://github.com/user-attachments/assets/338808aa-df9d-440d-95e1-a9f230d44e17" alt="Pong 1974 Screenshot 1" height="350">
-<img src="https://github.com/user-attachments/assets/b847163b-422e-40e1-a650-47df7c7db85a" alt="Pong 1974 Screenshot 2" height="350">
+<img src="https://github.com/user-attachments/assets/338808aa-df9d-440d-95e1-a9f230d44e17" alt="img:pong-screenshot-1" height="350">
+<img src="https://github.com/user-attachments/assets/b847163b-422e-40e1-a650-47df7c7db85a" alt="img:pong-screenshot-2" height="350">
 
 ## Contexto
 
